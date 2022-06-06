@@ -16,7 +16,7 @@ Respct is a multi-chain blockchain gaming ecosystem, there are 4 core offerings,
 
 ### How does it work?
 
-Respct integrates directly with the biggest gaming studios in the world to bring their assets to NFT Marketplace. Moreover this collaboration allows Respct to integrate [Respct ID](/profile) with the games. With more people using Respct ID, more games will be able to integrate with the Respct Ecosystem and more players will be able to play more games.
+Respct integrates directly with the biggest gaming studios in the world to bring their assets to NFT Marketplace. Moreover this collaboration allows Respct to integrate [Respct ID](/docs/category/respct-id) with the games. With more people using Respct ID, more games will be able to integrate with the Respct Ecosystem and more players will be able to play more games.
 
 All a gamer needs to do is login to Respct with any account they want, connect their non-custodial wallets or create custodial wallets for hastle free gaming experience. Once these wallets are connected, they can start playing games on any chain. Login with Respct ID and start playing! Respct on the backend keeps track of your gameplay & recommends you with the assets that most suite your style of play. You can directly buy these assets from NFT Marketplace without moving your assets on different chains or having to pay for the same.
 
