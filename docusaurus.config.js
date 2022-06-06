@@ -67,7 +67,7 @@ const config = {
 						type: "doc",
 						docId: "intro",
 						position: "left",
-						label: "What is Respct",
+						label: "Whitepaper",
 					},
 					{ to: "/blog", label: "Blog", position: "left" },
 					// {
