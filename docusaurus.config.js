@@ -7,7 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Respct",
-	tagline: "Changing web3 gaming with our player DID, protocol & NFT marketplace",
+	tagline:
+		"Changing web3 gaming with our player DID, protocol & NFT marketplace",
 	url: "https://docs.respct.fun",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
@@ -93,12 +94,16 @@ const config = {
 						title: "Community",
 						items: [
 							{
-								label: "Discord",
-								href: "https://discordapp.com/invite/docusaurus",
-							},
-							{
 								label: "Twitter",
 								href: "https://twitter.com/respctClub",
+							},
+							{
+								label: "LinkedIn",
+								href: "https://www.linkedin.com/company/respct-labs/",
+							},
+							{
+								label: "Instagram",
+								href: "https://www.instagram.com/respct.club/",
 							},
 						],
 					},
