@@ -10,7 +10,7 @@ Changing the web3 gaming ecosystem for the better.
 
 Respct started off with the famous meme when we played Call Of Duty. **Press F to Pay Respct**
 
-Respct is a multi-chain blockchain gaming ecosystem, there are 4 core offerings, [Respct ID](/profile), [NFT Marketplace](/game), [Community Management](/community) and [Mission Portral](/missions). We aim to help current web3 guilds to manage their communities & make a smooth experience for any gamer to start playing. Gamers don't care about the chain but they care about the gameplay and that is what matters. 
+Respct is a multi-chain blockchain gaming ecosystem, there are 4 core offerings, [Respct ID](/docs/category/respct-id), [NFT Marketplace](/docs/category/nft-marketplace), [Community Management](/docs/category/community-management) and [Mission Portral](/docs/category/mission-portal). We aim to help current web3 guilds to manage their communities & make a smooth experience for any gamer to start playing. Gamers don't care about the chain but they care about the gameplay and that is what matters. 
 
 **With Respct, players can play any game on any chain with one login.**
 
