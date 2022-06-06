@@ -24,7 +24,7 @@ All a gamer needs to do is login to Respct with any account they want, connect t
 
 The four core offerings of Respct create the ecosystem for gaming. Our goal is to help game developers to produce the best blockchain game for the community & for gamers to seamlessly play those best games. More than that we also help developers with gameplay, token economics and community management.
 
-#### Respct ID
+### Respct ID
 
 Respct IDs track gameplay data and allows players to connect multiple wallets to play any game on any chain (NEAR, Polygon, Solana, Cosmos, Ethereum, etc). This ID allows players to prove their gameplay and for any developer to get them onboard without any friction. 
 
@@ -32,13 +32,13 @@ There are multiple ways these IDs can be integrated with games, products or serv
 - It can be integrated with the games themselves as easy as Google Auth.
 - It can be integrated with the product or any service using our [SDK](https://www.npmjs.com/package/respct-dash). Contact the team if you want to integrate this SDK. We are already working with 5 platforms with our Respct IDs.
 
-#### NFT Marketplace
+### NFT Marketplace
 
 The biggest problem right now is finding the assets for games and moreover trade those assets to play other game on same or different chain. Guilds have a lot of assets and they are not able to utilize these assets. NFT Marketplace is the solution to this problem. Cross game, multi-chain NFT Markeplace allows for gamers & guilds to buy, sell, lend, borrow assets instantaneously. 
 
 Developers can also use NFT Marketplace to sell their Initial NFT to guilds and players. They can use Respct contracts to integrate the lend & play feature similar to Cyball rather than creating the ecosystem in-house. 
 
-#### Mission Portal
+### Mission Portal
 
 Mission Portal is another product for games launch missions to engage players. For example 
 - First 100 players to reach Level 10 get 200 tokens.
@@ -46,7 +46,7 @@ Mission Portal is another product for games launch missions to engage players. F
 
 Completing these missions also help player get more Respct Score attached to their IDs. Developers can reward gamers in tokens, USDC or use $F to reward. 
 
-#### Community Management
+### Community Management
 
 Guilds are a huge part of our gaming ecosystem in web2 and web3. These guilds allow gamers to play games and also help developers during INO. They have a huge community scattered over discord which is again really hard to manage. Respct helps them identify top gamers, manage their community and help them to grow their community. 
 
