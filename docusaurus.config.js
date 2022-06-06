@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Respct",
-	tagline: "Dinosaurs are cool",
+	tagline: "Changing web3 gaming with our player DID, protocol & NFT marketplace",
 	url: "https://docs.respct.fun",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
@@ -67,7 +67,7 @@ const config = {
 						type: "doc",
 						docId: "intro",
 						position: "left",
-						label: "Tutorial",
+						label: "What is Respct",
 					},
 					{ to: "/blog", label: "Blog", position: "left" },
 					// {
@@ -84,7 +84,7 @@ const config = {
 						title: "Docs",
 						items: [
 							{
-								label: "Tutorial",
+								label: "Whitepaper",
 								to: "/docs/intro",
 							},
 						],
@@ -93,16 +93,12 @@ const config = {
 						title: "Community",
 						items: [
 							{
-								label: "Stack Overflow",
-								href: "https://stackoverflow.com/questions/tagged/docusaurus",
-							},
-							{
 								label: "Discord",
 								href: "https://discordapp.com/invite/docusaurus",
 							},
 							{
 								label: "Twitter",
-								href: "https://twitter.com/docusaurus",
+								href: "https://twitter.com/respctClub",
 							},
 						],
 					},
@@ -115,7 +111,7 @@ const config = {
 							},
 							{
 								label: "GitHub",
-								href: "https://github.com/facebook/docusaurus",
+								href: "https://github.com/respctLabs",
 							},
 						],
 					},
